@@ -36,7 +36,7 @@
     "extract-text-webpack-plugin": "^2.0.0",
     "file-loader": "^0.10.0",
     "node-libs-browser": "^0.5.2",
-    "postcss": "^5.2.11",
+    "postcss": "^7.0.36",
     "postcss-cssnext": "^2.9.0",
     "postcss-import": "^9.1.0",
     "postcss-loader": "^1.2.2",
